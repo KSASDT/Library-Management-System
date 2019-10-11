@@ -1,12 +1,9 @@
 # Library-Management-System
 This Library Management software is built to handle the primary functions of a library. This helps to keep the records of whole transactions of the books available in the library  and it is very easy to use and fulfills all the requirement of a librarian. The books can be added and deleted according to need and members can also be added to the database. The complete software is built in Java language and Javafx is used to developed the dashboard of the Library Management System that includes the graphical representation of the total books vs Issued books. All the functionalities like Login Registration,  Add books, Add members, Issuing books, Submission, Renewal, Member List, Book List, Issued Book List, Fine List are provided in this software. Also this information can be exported in PDF format.
-Designing-a-REST-API-to-Build-Application-Software-and-Dashboard-Development
-Dashboard
 
-Description
-This is the summer internship project done by me in the year 2017 at CaLeLa(Blue Anchor Private Limited) Bandra, Mumbai. The main objective is to create REST API using Spring MVC that connects the back-end data sources to the client application and developed the dashboard for CaLeLa users. The dashboard includes the applications such as task list, event calendar, alerts and notifications, contact list, note etc.
 
-File and Directory Structure:
+# File and Directory Structure:
+
 Files includes:
 
            UserManagement.rar                     : REST API built in Java
