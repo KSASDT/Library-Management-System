@@ -15,7 +15,7 @@ Files includes:
            BookListLoader.java                    : Shows List of Books
            MemberListLoader                       : Shows List of students/members
            mainLoader.java                        : To assemble all functions of library
-           Page_notes.html                        : Sample Picture
+          
           
 Functional description of the project is as follows:
 -----------------------------------------------------
